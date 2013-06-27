@@ -1,0 +1,43 @@
+2013-06-27 13:42:14,069 - __main__ - INFO - task start from http://www.hao123.com with depth 3
+2013-06-27 13:42:14,986 - __main__ - INFO - get content from http://www.hao123.com done
+2013-06-27 13:42:17,082 - __main__ - INFO - get content from http://www.hao123.com/desk.html done
+2013-06-27 13:42:17,133 - __main__ - INFO - get content from http://www.hao123.com/redian/tongzhi.htm done
+2013-06-27 13:42:17,157 - __main__ - INFO - get content from http://www.hao123.com/shouji done
+2013-06-27 13:42:17,185 - __main__ - INFO - get content from http://www.hao123.com/rili done
+2013-06-27 13:42:17,692 - __main__ - INFO - get content from http://www.hao123.com/login.htm?gotourl=http%3A%2F%2Fwww.hao123.com%2F done
+2013-06-27 13:42:18,241 - __main__ - INFO - get content from http://www.hao123.com/tianqi done
+2013-06-27 13:42:18,288 - __main__ - INFO - get content from http://www.hao123.com/redian/sheshouyef.htm#01 done
+2013-06-27 13:42:18,427 - __main__ - INFO - get content from http://video.hao123.com/ done
+2013-06-27 13:42:18,801 - __main__ - INFO - get content from http://caipiao.hao123.com done
+2013-06-27 13:42:19,692 - __main__ - ERROR - HTMLParseError malformed start tag, at line 1588, column 36
+2013-06-27 13:42:20,267 - __main__ - INFO - get content from http://www.hao123.com/sitemap/ done
+2013-06-27 13:42:20,409 - __main__ - INFO - get content from http://live.hao123.com/ done
+2013-06-27 13:42:20,558 - __main__ - INFO - get content from http://video.hao123.com/dianshi/ done
+2013-06-27 13:42:21,898 - __main__ - INFO - get content from http://video.hao123.com/dianying/ done
+2013-06-27 13:42:22,972 - __main__ - INFO - get content from http://news.hao123.com/ done
+2013-06-27 13:42:25,195 - __main__ - INFO - get content from http://www.hao123.com/star done
+2013-06-27 13:42:27,786 - __main__ - INFO - get content from http://www.hao123.com/junshi done
+2013-06-27 13:42:30,551 - __main__ - INFO - get content from http://video.hao123.com/dongman/ done
+2013-06-27 13:42:30,614 - __main__ - INFO - get content from http://www.hao123.com/video done
+2013-06-27 13:42:30,849 - __main__ - INFO - get content from http://xyx.hao123.com/ done
+2013-06-27 13:42:30,871 - __main__ - INFO - get content from http://zongyi.hao123.com/ done
+2013-06-27 13:42:32,923 - __main__ - INFO - get content from http://video.hao123.com/dianying_index/director-_actor-_type-_area-_pn-1_order-hot_complete-_start- done
+2013-06-27 13:42:33,215 - __main__ - INFO - get content from http://video.hao123.com/guangchang/?tag=%B8%E3%D0%A6&sort=hot done
+2013-06-27 13:42:33,346 - __main__ - ERROR - HTMLParseError malformed start tag, at line 317, column 171
+2013-06-27 13:42:33,979 - __main__ - INFO - get content from http://game.hao123.com/ done
+2013-06-27 13:42:34,059 - __main__ - INFO - get content from http://news.hao123.com/?tab=yuedu done
+2013-06-27 13:42:34,466 - __main__ - INFO - get content from http://www.hao123.com/sports done
+2013-06-27 13:42:34,875 - __main__ - INFO - get content from http://www.hao123.com/mail done
+2013-06-27 13:42:35,583 - __main__ - INFO - get content from http://hao123.lecai.com/lottery/jczq/spf_wrq?agentId=5505 done
+2013-06-27 13:42:36,344 - __main__ - INFO - get content from http://book.hao123.com/ done
+2013-06-27 13:42:38,739 - __main__ - INFO - get content from http://book.hao123.com/index/ done
+2013-06-27 13:42:41,941 - __main__ - INFO - get content from http://gouwu.hao123.com/ done
+2013-06-27 13:42:42,608 - __main__ - INFO - get content from http://gouwu.hao123.com/sc/ done
+2013-06-27 13:42:44,125 - __main__ - INFO - get content from http://music.hao123.com/ done
+2013-06-27 13:42:44,503 - __main__ - INFO - get content from http://www.hao123.com/shequ done
+2013-06-27 13:42:44,529 - __main__ - INFO - get content from http://www.hao123.com/love done
+2013-06-27 13:42:45,176 - __main__ - ERROR - HTMLParseError malformed start tag, at line 832, column 29
+2013-06-27 13:42:45,809 - __main__ - INFO - get content from http://www.hao123.com/shenghuo done
+2013-06-27 13:42:45,993 - __main__ - INFO - get content from http://www.hao123.com/auto done
+2013-06-27 13:42:48,566 - __main__ - INFO - get content from http://wyyx.hao123.com/ done
+2013-06-27 13:42:54,594 - __main__ - INFO - task done!
